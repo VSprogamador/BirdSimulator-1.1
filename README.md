@@ -1,2 +1,2 @@
-# BirdSimulator-1.1
-Bird Simulator !!!
+# BaseParaJogo
+Aqui se encontra algumas bibliotecas da p5 para jogo de rolagem infinita
